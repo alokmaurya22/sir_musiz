@@ -68,7 +68,7 @@ musiz/
 
 ## 📬 Contact
 
-**Developer**: Akhilesh Gupta  
-📧 Email: gakhilesh946@gmail.com  
-🌐 GitHub: [@Akhilesh10gupta](https://github.com/Akhilesh10gupta)  
-🔗 LinkedIn: [Akhilesh Gupta](https://www.linkedin.com/in/akhilesh-gupta-826067228/)
+**Developer**: Alok Maurya 
+📧 Email: er.alokmaurya22@gmail.com  
+🌐 GitHub: [@alokmaurya22](https://github.com/alokmaurya22/sir_musiz) 
+🔗 LinkedIn: [Alok Maurya](https://www.linkedin.com/in/alok22)
